@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lession02\\lession02\\lession02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AEE27EE-318C-4D09-B393-93EC6B91CC3D}|Lession02\\Lession02.csproj|solutionrelative:lession02\\lession02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Program.cs",
+              "RelativeDocumentMoniker": "Lession02\\Program.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Program.cs",
+              "RelativeToolTip": "Lession02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:06:05.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Lession02\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Lession02\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:02:11.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lession02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lession02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:24:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lession02\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Lession02\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:18:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Lession02\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Lession02\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:46:22.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Lession02\\Models\\Account.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Models\\Account.cs",
+              "RelativeToolTip": "Lession02\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:05:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lession02",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Lession02.csproj",
+              "RelativeDocumentMoniker": "Lession02\\Lession02.csproj",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lession02\\Lession02\\Lession02.csproj",
+              "RelativeToolTip": "Lession02\\Lession02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T03:03:27.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

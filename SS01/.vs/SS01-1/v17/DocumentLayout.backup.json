@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss01-1\\ss01-1\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|solutionrelative:ss01-1\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss01-1\\ss01-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|solutionrelative:ss01-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss01-1\\ss01-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|solutionrelative:ss01-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss01-1\\ss01-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|solutionrelative:ss01-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss01-1\\ss01-1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B031145-6E16-4BC6-847B-7CFDD2FD3815}|SS01-1\\SS01-1.csproj|solutionrelative:ss01-1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SS01-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SS01-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:55:36.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "SS01-1\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "SS01-1\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:54:12.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "SS01-1\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "SS01-1\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:53:49.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SS01-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SS01-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:52:26.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Program.cs",
+              "RelativeDocumentMoniker": "SS01-1\\Program.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS01-1\\SS01-1\\Program.cs",
+              "RelativeToolTip": "SS01-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:49:26.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

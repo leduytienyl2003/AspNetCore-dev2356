@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\views\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\views\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\ss02\\ss02\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A268875-48B9-4CD1-BFEE-48196D2A2A16}|SS02\\SS02.csproj|solutionrelative:ss02\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetProducts.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Product\\GetProducts.cshtml",
+              "RelativeDocumentMoniker": "SS02\\Views\\Product\\GetProducts.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Product\\GetProducts.cshtml",
+              "RelativeToolTip": "SS02\\Views\\Product\\GetProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:49:30.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SS02\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SS02\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:27:37.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SS02\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SS02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:26:46.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SS02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SS02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB8AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:23:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SS02\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SS02\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:13:10.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SS02\\Models\\Product.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Models\\Product.cs",
+              "RelativeToolTip": "SS02\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:32:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SS02\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\SS02\\SS02\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SS02\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:19:24.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
