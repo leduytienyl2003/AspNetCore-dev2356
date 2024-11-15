@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Migrations\\20241115035350_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson06-TheoryCF8\\Migrations\\20241115035350_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson06-theorycf8\\lesson06-theorycf8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|solutionrelative:lesson06-theorycf8\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson06-theorycf8\\lesson06-theorycf8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|solutionrelative:lesson06-theorycf8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson06-theorycf8\\lesson06-theorycf8\\models\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|solutionrelative:lesson06-theorycf8\\models\\bookmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Migrations\\20241115034953_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lesson06-TheoryCF8\\Migrations\\20241115034953_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson06-theorycf8\\lesson06-theorycf8\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|solutionrelative:lesson06-theorycf8\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson06-theorycf8\\lesson06-theorycf8\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|solutionrelative:lesson06-theorycf8\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson06-theorycf8\\lesson06-theorycf8\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{419937DF-6118-428A-8298-3D11F24CF528}|Lesson06-TheoryCF8\\Lesson06-TheoryCF8.csproj|solutionrelative:lesson06-theorycf8\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241115034953_v2.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Migrations\\20241115034953_v2.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Migrations\\20241115034953_v2.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Migrations\\20241115034953_v2.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Migrations\\20241115034953_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:49:53.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Models\\Book.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\Book.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Models\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:27:14.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\appsettings.json",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\appsettings.json",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\appsettings.json",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T02:57:00.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Models\\Category.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\Category.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:28:24.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Models\\Publisher.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\Publisher.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Models\\Publisher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:28:58.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookManagementContext.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\BookManagementContext.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Models\\BookManagementContext.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Models\\BookManagementContext.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Models\\BookManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:30:06.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Program.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Program.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:04:22.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241115035350_v1.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Migrations\\20241115035350_v1.cs",
+              "RelativeDocumentMoniker": "Lesson06-TheoryCF8\\Migrations\\20241115035350_v1.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson06-TheoryCF8\\Lesson06-TheoryCF8\\Migrations\\20241115035350_v1.cs",
+              "RelativeToolTip": "Lesson06-TheoryCF8\\Migrations\\20241115035350_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:53:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
