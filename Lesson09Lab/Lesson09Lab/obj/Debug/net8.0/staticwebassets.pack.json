@@ -1,0 +1,849 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lesson09Lab.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lesson09Lab.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\logo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\logologin.png",
+      "PackagePath": "staticwebassets\\dist\\img\\logologin.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins.html",
+      "PackagePath": "staticwebassets\\plugins.html"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\124369155",
+      "PackagePath": "staticwebassets\\plugins_files"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-b0b4fd6f86a5.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-b0b4fd6f86a5.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-c89801ebbe15.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-c89801ebbe15.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-1f593176c92a.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-1f593176c92a.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-87c39cb5708f.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-87c39cb5708f.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\app_assets_modules_github_ref-selector_ts-043af64042a1.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\app_assets_modules_github_ref-selector_ts-043af64042a1.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\app_assets_modules_github_sticky-scroll-into-view_ts-ui_packages_onfocus_onfocus_ts-346d240435ec.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\app_assets_modules_github_sticky-scroll-into-view_ts-ui_packages_onfocus_onfocus_ts-346d240435ec.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\behaviors-ea9a2e4beeb6.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\behaviors-ea9a2e4beeb6.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\code-53e56f0305ac.css",
+      "PackagePath": "staticwebassets\\plugins_files\\code-53e56f0305ac.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\code-menu-3118a76a2829.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\code-menu-3118a76a2829.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\codespaces-1eb1236f159c.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\codespaces-1eb1236f159c.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\element-registry-6782082e77a2.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\element-registry-6782082e77a2.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\environment-cd35650c2e9c.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\environment-cd35650c2e9c.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\github-d3b66f11d613.css",
+      "PackagePath": "staticwebassets\\plugins_files\\github-d3b66f11d613.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\github-elements-cb7d8b621a49.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\github-elements-cb7d8b621a49.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\global-e41ff91f8baa.css",
+      "PackagePath": "staticwebassets\\plugins_files\\global-e41ff91f8baa.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\keyboard-shortcuts-dialog-ed30662f9578.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\keyboard-shortcuts-dialog-ed30662f9578.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\light-3e154969b9f9.css",
+      "PackagePath": "staticwebassets\\plugins_files\\light-3e154969b9f9.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\notifications-global-3366f6b6298e.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\notifications-global-3366f6b6298e.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\notifications-subscriptions-menu-1490f5bef85d.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\notifications-subscriptions-menu-1490f5bef85d.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\notifications-subscriptions-menu.1bcff9205c241e99cff2.module.css",
+      "PackagePath": "staticwebassets\\plugins_files\\notifications-subscriptions-menu.1bcff9205c241e99cff2.module.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\octicons-react-45c3a19dd792.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\octicons-react-45c3a19dd792.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\primer-0a1f715ee9fb.css",
+      "PackagePath": "staticwebassets\\plugins_files\\primer-0a1f715ee9fb.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\primer-primitives-4cf0d59ab51a.css",
+      "PackagePath": "staticwebassets\\plugins_files\\primer-primitives-4cf0d59ab51a.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\primer-react-765944243383.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\primer-react-765944243383.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\primer-react.9fa170e9435ed4b922b9.module.css",
+      "PackagePath": "staticwebassets\\plugins_files\\primer-react.9fa170e9435ed4b922b9.module.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\react-code-view-2944fab06c8e.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\react-code-view-2944fab06c8e.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\react-code-view.6b587a69b593e23c3657.module.css",
+      "PackagePath": "staticwebassets\\plugins_files\\react-code-view.6b587a69b593e23c3657.module.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\react-core-cd0a67881543.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\react-core-cd0a67881543.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\repositories-ac118cd54ac9.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\repositories-ac118cd54ac9.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\repository-1e3bbbee6b91.css",
+      "PackagePath": "staticwebassets\\plugins_files\\repository-1e3bbbee6b91.css"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\sessions-8fa3b694f335.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\sessions-8fa3b694f335.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_aria-live_aria-live_ts-ui_packages_promise-with-resolvers-polyfill_promise-with-r-014121-e1792bd5a31e.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_aria-live_aria-live_ts-ui_packages_promise-with-resolvers-polyfill_promise-with-r-014121-e1792bd5a31e.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_utili-228da6-8d547055011b.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_utili-228da6-8d547055011b.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_comp-1beb66-cb9d078d176c.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_code-view-shared_hooks_use-file-page-payload_ts-ui_packages_code-view-shared_comp-1beb66-cb9d078d176c.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-7fe572-0d8f4a2976ee.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-7fe572-0d8f4a2976ee.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_failbot_failbot_ts-a46544e9ee5e.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_failbot_failbot_ts-a46544e9ee5e.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_hydro-analytics_hydro-analytics_ts-ui_packages_verified-fetch_verified-fetch_ts-u-4672d1-b9813979de97.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_hydro-analytics_hydro-analytics_ts-ui_packages_verified-fetch_verified-fetch_ts-u-4672d1-b9813979de97.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_paths_index_ts-193243317670.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_paths_index_ts-193243317670.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_ref-selector_RefSelector_tsx-7a75d9f22fe9.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_ref-selector_RefSelector_tsx-7a75d9f22fe9.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_sudo_sudo_ts-4882d48f7244.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_sudo_sudo_ts-4882d48f7244.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_ui-commands_ui-commands_ts-d25fac54a6bc.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_ui-commands_ui-commands_ts-d25fac54a6bc.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\ui_packages_updatable-content_updatable-content_ts-a56a72f0fec9.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\ui_packages_updatable-content_updatable-content_ts-a56a72f0fec9.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-634de60bacfa.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-bb80ec-634de60bacfa.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f6223d90c7ba.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f6223d90c7ba.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_dompurify_dist_purify_js-b73fdff77a4e.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_dompurify_dist_purify_js-b73fdff77a4e.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-62da9f-54c0c921f04b.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-62da9f-54c0c921f04b.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_arianotify-polyfill_ariaNotify-polyfill_js-node_modules_github_mi-247092-7885b472fa6d.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_arianotify-polyfill_ariaNotify-polyfill_js-node_modules_github_mi-247092-7885b472fa6d.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-6afc16-3cdfa69a0406.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-6afc16-3cdfa69a0406.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_combobox-nav_dist_index_js-node_modules_github_g-emoji-element_di-6ce195-53781cbc550f.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_combobox-nav_dist_index_js-node_modules_github_g-emoji-element_di-6ce195-53781cbc550f.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_remote--680e8b-0227aac5a3de.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_remote--680e8b-0227aac5a3de.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-7671f1-c88c68d8249d.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-7671f1-c88c68d8249d.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-64905f-81ebb9be14ce.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-64905f-81ebb9be14ce.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1a841-8f251a0656e7.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-d1a841-8f251a0656e7.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-9002b0-8e5e346f0cbe.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-9002b0-8e5e346f0cbe.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-f3aee1-e6893db9c19e.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-f3aee1-e6893db9c19e.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_delegated-events_di-e161aa-c2a0ad78c9c9.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_delegated-events_di-e161aa-c2a0ad78c9c9.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-9b97703a4e6a.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-9b97703a4e6a.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_morphdom_dist_morphdom-e-7c534c-f8a5485c982a.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1f651a-1e3d784c897c.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1f651a-1e3d784c897c.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-e7dcdd-074052b7d26b.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-e7dcdd-074052b7d26b.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_relative-time-element_dist_index_js-6d3967acd51c.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_relative-time-element_dist_index_js-6d3967acd51c.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-cf3dd69d89eb.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-94fd67-cf3dd69d89eb.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-e53a3f-8346b142672c.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_remote-form_dist_index_js-node_modules_delegated-events_dist_inde-e53a3f-8346b142672c.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_github_text-expander-element_dist_index_js-f5498b8d4e5d.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_github_text-expander-element_dist_index_js-f5498b8d4e5d.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-4896ddd4b7bb.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-4896ddd4b7bb.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-aff936e590ed.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-aff936e590ed.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_primer_behaviors_dist_esm_index_mjs-4aa4b0e95669.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_primer_behaviors_dist_esm_index_mjs-4aa4b0e95669.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_stacktrace-pa-a71630-6f3c4f0189d8.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_scroll-anchoring_dist_scroll-anchoring_esm_js-node_modules_stacktrace-pa-a71630-6f3c4f0189d8.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-96453a51f920.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-96453a51f920.js.download"
+    },
+    {
+      "Id": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson09Lab\\Lesson09Lab\\wwwroot\\plugins_files\\wp-runtime-dc4265984d10.js.download",
+      "PackagePath": "staticwebassets\\plugins_files\\wp-runtime-dc4265984d10.js.download"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lesson09Lab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lesson09Lab.props",
+      "PackagePath": "build\\Lesson09Lab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lesson09Lab.props",
+      "PackagePath": "buildMultiTargeting\\Lesson09Lab.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lesson09Lab.props",
+      "PackagePath": "buildTransitive\\Lesson09Lab.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

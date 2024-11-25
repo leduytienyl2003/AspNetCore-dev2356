@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|c:\\devmatser\\aspnetcore\\aspnetcore-dev2356\\lesson08lab\\lesson08lab\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7868AB9-2310-4571-8303-A3FCE763C62E}|Lesson08Lab\\Lesson08Lab.csproj|solutionrelative:lesson08lab\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 325,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:40:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:17:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAwwCAAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T03:16:02.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:12:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:11:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Preloader.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:10:23.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:09:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:07:22.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\DevMatser\\ASPNetCore\\AspNetCore-dev2356\\Lesson08Lab\\Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Lesson08Lab\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:50:56.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
